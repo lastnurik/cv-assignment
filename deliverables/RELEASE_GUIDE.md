@@ -34,4 +34,4 @@ Report authoring additionally uses reportlab 5.1.0 and pypdf 6.21.4. Browser/vid
 
 ## Final external handoff
 
-Repository URL, video hosting link, Moodle submission receipt and practice defense are not yet recorded. Publish only the reviewed source/package under the chosen account and audience; obtain any additional image-distribution permission first. Record your own narration using the timestamped transcript, add it to the silent master and check playback before submission. The v1 generated-speech recording is archived outside the current deliverables.
+Repository: https://github.com/lastnurik/cv-assignment (private, pushed via SSH). Instructor access is not configured. Video hosting, Moodle submission receipt and practice defense remain pending. Publish only the reviewed source/package under the chosen account and audience; obtain any additional image-distribution permission first. Record your own narration using the timestamped transcript, add it to the silent master and check playback before submission. The v1 generated-speech recording is archived outside the current deliverables.

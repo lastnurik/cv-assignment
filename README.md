@@ -1,5 +1,7 @@
 # Gesture Lab | Assignment 2
 
+Repository: https://github.com/lastnurik/cv-assignment (private).
+
 Three-class hand gesture recognition: peace, stop, thumbs_up. A local web app provides upload/camera input, probabilities and actual Grad-CAM. ConvNeXtTiny is the modern component; the controlled ablation compares pretrained versus random frozen ConvNeXt features.
 
 ## Run the app
@@ -57,4 +59,4 @@ The ConvNeXt official weights are fetched by Keras; use `KERAS_HOME=artifacts/me
 - Source and private asset archives: `deliverables/`. See `deliverables/FINAL_HANDOFF.md` for submission files.
 - Authoritative execution checkpoint: `A2_EXECUTION_PLAN.md`.
 
-Repository/media publication, Moodle submission and the practice defense require separate confirmation. None is inferred from local file creation.
+The source repository is published privately on GitHub. Give the course reviewer access before sharing its link. Video narration/hosting, Moodle submission and the practice defense remain pending.

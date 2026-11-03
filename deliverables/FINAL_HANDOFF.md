@@ -1,6 +1,6 @@
 # Assignment 2 handoff
 
-The app, experiments, seven-page report and silent demo are ready locally. Student narration, external links and submission remain pending.
+The app, experiments, seven-page report and silent demo are ready locally. The source is published privately at https://github.com/lastnurik/cv-assignment. Student narration, video sharing, reviewer access and submission remain pending.
 
 | Item | File |
 |---|---|
@@ -27,7 +27,7 @@ It writes deliverables/A2_Demo_With_Your_Audio.mp4. Listen and watch the full re
 
 ## Submit
 
-Choose the repository and video destination and audience. Publication still requires your approval. Keep identifiable images and private assets restricted to permitted course review.
+The private GitHub repository is ready. Give the instructor access, then choose the narrated video destination and audience. Keep identifiable images and private assets restricted to permitted course review.
 
 Provide the seven-page PDF, accessible source repository and narrated video links, and the app run guide or app link as requested by the course portal. Submission and the practice defense have not occurred.
 
@@ -42,4 +42,4 @@ Provide the seven-page PDF, accessible source repository and narrated video link
 - Mean CPU prediction latency is 395.36 ms over 100 calls after 10 warmups, excluding explanation.
 - Project-use consent is confirmed. No synthetic training images were used.
 
-Next action: record and add your narration, review playback, then authorize publication or upload the deliverables yourself. No new pictures or retraining are required.
+Next action: record and add your narration, review playback, then share the video and provide the instructor access to the private repository. No new pictures or retraining are required.

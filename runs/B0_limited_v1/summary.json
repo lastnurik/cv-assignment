@@ -1,0 +1,11 @@
+{
+  "selected_phase": "baseline",
+  "selection": "maximum val_accuracy; earliest phase/epoch on ties",
+  "parameters": 11169347,
+  "training_seconds": 59.94552840000142,
+  "feature_extraction_seconds": 0.0,
+  "weights_sha256": "d78fed9e9e52ba3b8a72d94c78fc1bbdf7dc4520a75bd4e5b3068781bfad3a10",
+  "tensorflow": "2.21.0",
+  "manifest_sha256": "8ace5c5f80e2d93be23274cdb9076a3ac8d9b1548f1aef0c2a22eac9253a4e83",
+  "status": "TRAINED_NOT_TEST_EVALUATED"
+}

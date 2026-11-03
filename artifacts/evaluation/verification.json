@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "selected": "S1",
+  "aligned_test_samples": 51,
+  "sklearn_crosscheck": true,
+  "raw_clean_model_parity": true,
+  "frozen_selection_before_test": true,
+  "ablation_controls_verified": true
+}

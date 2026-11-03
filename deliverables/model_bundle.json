@@ -1,0 +1,20 @@
+{
+  "name": "A2 S1 \u2014 limited within-setting classifier",
+  "status": "verified",
+  "weights": "../runs/S1_limited_v1/best.keras",
+  "weights_sha256": "f177f4a9aa4db75fffec1b01b322cd05de0231e58a5d2ee2e30b57d07f3f2eee",
+  "class_names": [
+    "peace",
+    "stop",
+    "thumbs_up"
+  ],
+  "preprocessing": {
+    "crop_top_fraction": 0.2,
+    "width": 224,
+    "height": 224,
+    "version": "crop_top_20pct_rgb_bilinear_v1"
+  },
+  "method": "ConvNeXt comparison with pretraining ablation; deployed model selected on validation",
+  "scope": "One participant, one indoor setting; not generalization evidence",
+  "synthetic_share": 0
+}

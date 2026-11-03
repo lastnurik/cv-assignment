@@ -1,0 +1,41 @@
+{
+  "role": "S1",
+  "rule": "Maximum validation accuracy; first B0/B1/S1 on ties; test unopened",
+  "runs": {
+    "B0": {
+      "selected_phase": "baseline",
+      "selected_epoch": 10,
+      "validation_accuracy": 0.48275861144065857,
+      "weights_sha256": "d78fed9e9e52ba3b8a72d94c78fc1bbdf7dc4520a75bd4e5b3068781bfad3a10",
+      "config_sha256": "0bfa9a87c4f669fc038242e61e3c06382e5825febcd794b4af786a106e036ab2"
+    },
+    "B1": {
+      "selected_phase": "frozen",
+      "selected_epoch": 3,
+      "validation_accuracy": 0.8965517282485962,
+      "weights_sha256": "f38422e9cf7144a70b2330f7a7a13c93bddb3d7e2d7071f727a077389d606e9a",
+      "config_sha256": "9111ef9a0ce3b89cfcbb1b6b2cd1076304dc48730177ef81580eee61e35812d9"
+    },
+    "S1": {
+      "selected_phase": "frozen",
+      "selected_epoch": 3,
+      "validation_accuracy": 1.0,
+      "weights_sha256": "f177f4a9aa4db75fffec1b01b322cd05de0231e58a5d2ee2e30b57d07f3f2eee",
+      "config_sha256": "80673996956acc47c971a4bb1521287ef491deee02cc7dbbed3aee824c1c9f4b"
+    },
+    "A0": {
+      "selected_phase": "frozen",
+      "selected_epoch": 5,
+      "validation_accuracy": 0.5517241358757019,
+      "weights_sha256": "6f4aa7252f523650a02f47374be0b9946483dbd3e16349213893c27daf5dd30a",
+      "config_sha256": "fc2483afd277da4288ec2ae00e38f89b41757525044eae42c3d9c482523aae1d"
+    }
+  },
+  "manifest_sha256": "8ace5c5f80e2d93be23274cdb9076a3ac8d9b1548f1aef0c2a22eac9253a4e83",
+  "ablation_initial_head_equal": true,
+  "ablation_config_differences": [
+    "backbone_weights",
+    "run_id",
+    "run_role"
+  ]
+}

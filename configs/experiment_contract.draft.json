@@ -1,0 +1,16 @@
+{
+  "status": "DRAFT_BLOCKED",
+  "method": null,
+  "reason": "CPU runtime and technical EfficientNet pilot pass; modern method selection/controlled contract pending; limited split verified structurally but bystander consent unresolved.",
+  "proposed_preprocessing": "crop_top_20pct_rgb_bilinear_v1",
+  "proposed_checkpoint_rule": "maximum validation accuracy, earliest phase/epoch tie break",
+  "primary_report_metric": "macro_f1",
+  "planned_ablated_factor": "reviewed synthetic training samples",
+  "compute": "Verified CPU TensorFlow 2.21.0; 4GiB host GPU not configured for training",
+  "split_sha256": null,
+  "sota_revision": null,
+  "synthetic_ratio": null,
+  "step_budget": null,
+  "warning": "Do not change status to FROZEN merely to bypass preflight. Complete and review the experiment contract first.",
+  "proposed_split": "data/manifests/a1_limited_v1.json"
+}

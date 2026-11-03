@@ -1,0 +1,36 @@
+# Local environments and secrets
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+# Dataset images and model files stay local
+dataset/
+models/
+results/
+data/
+runs/
+*.keras
+*.h5
+*.hdf5
+*.onnx
+*.pt
+*.pth
+# Audit/private media and generated deliverables stay local
+artifacts/
+output/
+deliverables/*
+!deliverables/model_bundle.json
+!deliverables/RELEASE_GUIDE.md
+!deliverables/FINAL_HANDOFF.md
+!deliverables/A2_Demo_Transcript.md
+!deliverables/presentation/
+deliverables/presentation/*
+!deliverables/presentation/*.html
+*.zip
+*.mp4
+*.wav
+*.mp3
+*.pdf
+*.pptx
+# Completed histories, manifests and aggregate plots are explicitly allowlisted.

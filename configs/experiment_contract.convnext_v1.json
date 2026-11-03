@@ -1,0 +1,80 @@
+{
+  "status": "FROZEN",
+  "method": "convnext_pretraining",
+  "runs": {
+    "B0": {
+      "seed": 123,
+      "batch_size": 16,
+      "steps_per_epoch": 22,
+      "learning_rate": 0.001,
+      "fine_tune_learning_rate": 1e-05,
+      "manifest_sha256": "8ace5c5f80e2d93be23274cdb9076a3ac8d9b1548f1aef0c2a22eac9253a4e83",
+      "architecture": "baseline",
+      "epochs": 10,
+      "fine_tune_epochs": 0
+    },
+    "B1": {
+      "seed": 123,
+      "batch_size": 16,
+      "steps_per_epoch": 22,
+      "learning_rate": 0.001,
+      "fine_tune_learning_rate": 1e-05,
+      "manifest_sha256": "8ace5c5f80e2d93be23274cdb9076a3ac8d9b1548f1aef0c2a22eac9253a4e83",
+      "architecture": "mobilenetv2",
+      "epochs": 5,
+      "fine_tune_epochs": 3
+    },
+    "S1": {
+      "seed": 123,
+      "batch_size": 16,
+      "steps_per_epoch": 22,
+      "learning_rate": 0.001,
+      "fine_tune_learning_rate": 1e-05,
+      "manifest_sha256": "8ace5c5f80e2d93be23274cdb9076a3ac8d9b1548f1aef0c2a22eac9253a4e83",
+      "architecture": "convnext_tiny",
+      "epochs": 20,
+      "fine_tune_epochs": 0,
+      "backbone_weights": "imagenet"
+    },
+    "A0": {
+      "seed": 123,
+      "batch_size": 16,
+      "steps_per_epoch": 22,
+      "learning_rate": 0.001,
+      "fine_tune_learning_rate": 1e-05,
+      "manifest_sha256": "8ace5c5f80e2d93be23274cdb9076a3ac8d9b1548f1aef0c2a22eac9253a4e83",
+      "architecture": "convnext_tiny",
+      "epochs": 20,
+      "fine_tune_epochs": 0,
+      "backbone_weights": null
+    }
+  },
+  "dataset": "data/manifests/a1_limited_v2.json",
+  "dataset_sha256": "8ace5c5f80e2d93be23274cdb9076a3ac8d9b1548f1aef0c2a22eac9253a4e83",
+  "scope": "Within-participant/setting exploratory evaluation; common-session correlation remains; no unseen-person/session/environment claim",
+  "primary_metric": "macro_f1",
+  "selection": "maximum validation accuracy, earliest phase/epoch on ties; app selected among B0/B1/S1 by validation only",
+  "ablation": "A0 versus S1: frozen randomly initialized versus ImageNet-pretrained ConvNeXtTiny; same Dense head seed 223, optimizer, batches, steps, epochs, no augmentation; backbone initialization is only factor",
+  "synthetic_ratio": 0,
+  "preprocessing": {
+    "crop_top_fraction": 0.2,
+    "width": 224,
+    "height": 224,
+    "version": "crop_top_20pct_rgb_bilinear_v1"
+  },
+  "compute": "CPU TensorFlow 2.21.0; 4 intra-op/2 inter-op threads; no paid services",
+  "pilot": "artifacts/method/pilot_convnext_spatial.json",
+  "weights_sha256": "d547c096cabd03329d7be5562c5e14798aa39ed24b474157cef5e85ab9e49ef1",
+  "test_isolation": "Train/val only until all checkpoint selections frozen; test samples never used in training",
+  "metrics": "accuracy, macro F1, per-class precision/recall/F1/support; zero_division=0; raw confusion counts",
+  "latency": "batch1, 10 warmups,100 calls; classifier mean/median/p95; explanation/end-to-end separate",
+  "app": "local Python HTTP server; upload/camera capture; loopback secure context; memory-only images; cached Keras model; no hosting or publication",
+  "limitations": [
+    "one participant and indoor setting",
+    "unknown original session",
+    "dHash grouping does not establish independence",
+    "test stop support 4",
+    "single seed",
+    "no validated no-hand detector"
+  ]
+}

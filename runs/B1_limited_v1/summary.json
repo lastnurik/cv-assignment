@@ -1,0 +1,11 @@
+{
+  "selected_phase": "frozen",
+  "selection": "maximum val_accuracy; earliest phase/epoch on ties",
+  "parameters": 2261827,
+  "training_seconds": 40.34092808999958,
+  "feature_extraction_seconds": 0.0,
+  "weights_sha256": "f38422e9cf7144a70b2330f7a7a13c93bddb3d7e2d7071f727a077389d606e9a",
+  "tensorflow": "2.21.0",
+  "manifest_sha256": "8ace5c5f80e2d93be23274cdb9076a3ac8d9b1548f1aef0c2a22eac9253a4e83",
+  "status": "TRAINED_NOT_TEST_EVALUATED"
+}

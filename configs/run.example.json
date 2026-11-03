@@ -1,0 +1,17 @@
+{
+  "contract": "configs/experiment_contract.draft.json",
+  "contract_sha256": "UNSET",
+  "manifest": "data/manifests/a1_clean_v1.json",
+  "manifest_sha256": "UNSET",
+  "run_id": "example_NOT_READY",
+  "run_role": "B1",
+  "architecture": "mobilenetv2",
+  "seed": 123,
+  "epochs": 15,
+  "fine_tune_epochs": 10,
+  "batch_size": 32,
+  "steps_per_epoch": 1,
+  "learning_rate": 0.001,
+  "fine_tune_learning_rate": 0.00001,
+  "warning": "Example only. Steps, hashes and contract must be fixed after feasibility/data review. Not an approved experiment."
+}

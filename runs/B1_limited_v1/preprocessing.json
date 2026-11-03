@@ -1,0 +1,6 @@
+{
+  "crop_top_fraction": 0.2,
+  "width": 224,
+  "height": 224,
+  "version": "crop_top_20pct_rgb_bilinear_v1"
+}

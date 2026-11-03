@@ -1,0 +1,402 @@
+{
+  "B0": {
+    "overall": {
+      "accuracy": 0.47058823529411764,
+      "macro_f1": 0.3670212765957446,
+      "per_class": {
+        "peace": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 23
+        },
+        "stop": {
+          "precision": 0.14285714285714285,
+          "recall": 1.0,
+          "f1": 0.25,
+          "support": 4
+        },
+        "thumbs_up": {
+          "precision": 0.8695652173913043,
+          "recall": 0.8333333333333334,
+          "f1": 0.851063829787234,
+          "support": 24
+        }
+      },
+      "confusion_matrix": [
+        [
+          0,
+          20,
+          3
+        ],
+        [
+          0,
+          4,
+          0
+        ],
+        [
+          0,
+          4,
+          20
+        ]
+      ],
+      "class_order": [
+        "peace",
+        "stop",
+        "thumbs_up"
+      ],
+      "samples": 51,
+      "zero_division": 0
+    },
+    "by_environment": {
+      "original_indoor_room": {
+        "accuracy": 0.47058823529411764,
+        "macro_f1": 0.3670212765957446,
+        "per_class": {
+          "peace": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0.0,
+            "support": 23
+          },
+          "stop": {
+            "precision": 0.14285714285714285,
+            "recall": 1.0,
+            "f1": 0.25,
+            "support": 4
+          },
+          "thumbs_up": {
+            "precision": 0.8695652173913043,
+            "recall": 0.8333333333333334,
+            "f1": 0.851063829787234,
+            "support": 24
+          }
+        },
+        "confusion_matrix": [
+          [
+            0,
+            20,
+            3
+          ],
+          [
+            0,
+            4,
+            0
+          ],
+          [
+            0,
+            4,
+            20
+          ]
+        ],
+        "class_order": [
+          "peace",
+          "stop",
+          "thumbs_up"
+        ],
+        "samples": 51,
+        "zero_division": 0
+      }
+    }
+  },
+  "B1": {
+    "overall": {
+      "accuracy": 0.8627450980392157,
+      "macro_f1": 0.804972804972805,
+      "per_class": {
+        "peace": {
+          "precision": 0.9047619047619048,
+          "recall": 0.8260869565217391,
+          "f1": 0.8636363636363636,
+          "support": 23
+        },
+        "stop": {
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1": 0.6666666666666666,
+          "support": 4
+        },
+        "thumbs_up": {
+          "precision": 0.8214285714285714,
+          "recall": 0.9583333333333334,
+          "f1": 0.8846153846153847,
+          "support": 24
+        }
+      },
+      "confusion_matrix": [
+        [
+          19,
+          0,
+          4
+        ],
+        [
+          1,
+          2,
+          1
+        ],
+        [
+          1,
+          0,
+          23
+        ]
+      ],
+      "class_order": [
+        "peace",
+        "stop",
+        "thumbs_up"
+      ],
+      "samples": 51,
+      "zero_division": 0
+    },
+    "by_environment": {
+      "original_indoor_room": {
+        "accuracy": 0.8627450980392157,
+        "macro_f1": 0.804972804972805,
+        "per_class": {
+          "peace": {
+            "precision": 0.9047619047619048,
+            "recall": 0.8260869565217391,
+            "f1": 0.8636363636363636,
+            "support": 23
+          },
+          "stop": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "f1": 0.6666666666666666,
+            "support": 4
+          },
+          "thumbs_up": {
+            "precision": 0.8214285714285714,
+            "recall": 0.9583333333333334,
+            "f1": 0.8846153846153847,
+            "support": 24
+          }
+        },
+        "confusion_matrix": [
+          [
+            19,
+            0,
+            4
+          ],
+          [
+            1,
+            2,
+            1
+          ],
+          [
+            1,
+            0,
+            23
+          ]
+        ],
+        "class_order": [
+          "peace",
+          "stop",
+          "thumbs_up"
+        ],
+        "samples": 51,
+        "zero_division": 0
+      }
+    }
+  },
+  "S1": {
+    "overall": {
+      "accuracy": 0.7843137254901961,
+      "macro_f1": 0.7299959299959299,
+      "per_class": {
+        "peace": {
+          "precision": 1.0,
+          "recall": 0.5217391304347826,
+          "f1": 0.6857142857142856,
+          "support": 23
+        },
+        "stop": {
+          "precision": 0.4444444444444444,
+          "recall": 1.0,
+          "f1": 0.6153846153846153,
+          "support": 4
+        },
+        "thumbs_up": {
+          "precision": 0.8,
+          "recall": 1.0,
+          "f1": 0.888888888888889,
+          "support": 24
+        }
+      },
+      "confusion_matrix": [
+        [
+          12,
+          5,
+          6
+        ],
+        [
+          0,
+          4,
+          0
+        ],
+        [
+          0,
+          0,
+          24
+        ]
+      ],
+      "class_order": [
+        "peace",
+        "stop",
+        "thumbs_up"
+      ],
+      "samples": 51,
+      "zero_division": 0
+    },
+    "by_environment": {
+      "original_indoor_room": {
+        "accuracy": 0.7843137254901961,
+        "macro_f1": 0.7299959299959299,
+        "per_class": {
+          "peace": {
+            "precision": 1.0,
+            "recall": 0.5217391304347826,
+            "f1": 0.6857142857142856,
+            "support": 23
+          },
+          "stop": {
+            "precision": 0.4444444444444444,
+            "recall": 1.0,
+            "f1": 0.6153846153846153,
+            "support": 4
+          },
+          "thumbs_up": {
+            "precision": 0.8,
+            "recall": 1.0,
+            "f1": 0.888888888888889,
+            "support": 24
+          }
+        },
+        "confusion_matrix": [
+          [
+            12,
+            5,
+            6
+          ],
+          [
+            0,
+            4,
+            0
+          ],
+          [
+            0,
+            0,
+            24
+          ]
+        ],
+        "class_order": [
+          "peace",
+          "stop",
+          "thumbs_up"
+        ],
+        "samples": 51,
+        "zero_division": 0
+      }
+    }
+  },
+  "A0": {
+    "overall": {
+      "accuracy": 0.4117647058823529,
+      "macro_f1": 0.41077441077441074,
+      "per_class": {
+        "peace": {
+          "precision": 0.6153846153846154,
+          "recall": 0.34782608695652173,
+          "f1": 0.4444444444444444,
+          "support": 23
+        },
+        "stop": {
+          "precision": 0.13793103448275862,
+          "recall": 1.0,
+          "f1": 0.2424242424242424,
+          "support": 4
+        },
+        "thumbs_up": {
+          "precision": 1.0,
+          "recall": 0.375,
+          "f1": 0.5454545454545454,
+          "support": 24
+        }
+      },
+      "confusion_matrix": [
+        [
+          8,
+          15,
+          0
+        ],
+        [
+          0,
+          4,
+          0
+        ],
+        [
+          5,
+          10,
+          9
+        ]
+      ],
+      "class_order": [
+        "peace",
+        "stop",
+        "thumbs_up"
+      ],
+      "samples": 51,
+      "zero_division": 0
+    },
+    "by_environment": {
+      "original_indoor_room": {
+        "accuracy": 0.4117647058823529,
+        "macro_f1": 0.41077441077441074,
+        "per_class": {
+          "peace": {
+            "precision": 0.6153846153846154,
+            "recall": 0.34782608695652173,
+            "f1": 0.4444444444444444,
+            "support": 23
+          },
+          "stop": {
+            "precision": 0.13793103448275862,
+            "recall": 1.0,
+            "f1": 0.2424242424242424,
+            "support": 4
+          },
+          "thumbs_up": {
+            "precision": 1.0,
+            "recall": 0.375,
+            "f1": 0.5454545454545454,
+            "support": 24
+          }
+        },
+        "confusion_matrix": [
+          [
+            8,
+            15,
+            0
+          ],
+          [
+            0,
+            4,
+            0
+          ],
+          [
+            5,
+            10,
+            9
+          ]
+        ],
+        "class_order": [
+          "peace",
+          "stop",
+          "thumbs_up"
+        ],
+        "samples": 51,
+        "zero_division": 0
+      }
+    }
+  }
+}

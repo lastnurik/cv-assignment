@@ -1,0 +1,614 @@
+[
+  {
+    "sample_id": "peace_0000",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.472500205039978,
+      0.35519880056381226,
+      0.17230106890201569
+    ],
+    "group_id": "dhash4_peace_0000"
+  },
+  {
+    "sample_id": "peace_0001",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.553814709186554,
+      0.3178023099899292,
+      0.12838296592235565
+    ],
+    "group_id": "dhash4_peace_0000"
+  },
+  {
+    "sample_id": "peace_0002",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.5922213792800903,
+      0.24784693121910095,
+      0.15993162989616394
+    ],
+    "group_id": "dhash4_peace_0000"
+  },
+  {
+    "sample_id": "peace_0007",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.5205279588699341,
+      0.3299384117126465,
+      0.14953364431858063
+    ],
+    "group_id": "dhash4_peace_0000"
+  },
+  {
+    "sample_id": "peace_0009",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.5760492086410522,
+      0.16924434900283813,
+      0.2547064423561096
+    ],
+    "group_id": "dhash4_peace_0009"
+  },
+  {
+    "sample_id": "peace_0018",
+    "label": "peace",
+    "prediction": "stop",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.4404006004333496,
+      0.44328901171684265,
+      0.11631035804748535
+    ],
+    "group_id": "dhash4_peace_0018"
+  },
+  {
+    "sample_id": "peace_0022",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.6565136909484863,
+      0.23034675419330597,
+      0.11313950270414352
+    ],
+    "group_id": "dhash4_peace_0022"
+  },
+  {
+    "sample_id": "peace_0029",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.46460017561912537,
+      0.2747025489807129,
+      0.26069721579551697
+    ],
+    "group_id": "dhash4_peace_0029"
+  },
+  {
+    "sample_id": "peace_0031",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.47378799319267273,
+      0.3287029266357422,
+      0.19750912487506866
+    ],
+    "group_id": "dhash4_peace_0031"
+  },
+  {
+    "sample_id": "peace_0034",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.6123749017715454,
+      0.23906414210796356,
+      0.14856098592281342
+    ],
+    "group_id": "dhash4_peace_0018"
+  },
+  {
+    "sample_id": "peace_0035",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.6717445850372314,
+      0.19117063283920288,
+      0.1370847374200821
+    ],
+    "group_id": "dhash4_peace_0022"
+  },
+  {
+    "sample_id": "peace_0100",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.6604939103126526,
+      0.16306844353675842,
+      0.17643767595291138
+    ],
+    "group_id": "dhash4_peace_0100"
+  },
+  {
+    "sample_id": "peace_0101",
+    "label": "peace",
+    "prediction": "peace",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.6121250987052917,
+      0.16912387311458588,
+      0.21875102818012238
+    ],
+    "group_id": "dhash4_peace_0100"
+  },
+  {
+    "sample_id": "peace_0141",
+    "label": "peace",
+    "prediction": "stop",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.26645606756210327,
+      0.43383336067199707,
+      0.29971057176589966
+    ],
+    "group_id": "dhash4_peace_0141"
+  },
+  {
+    "sample_id": "peace_0142",
+    "label": "peace",
+    "prediction": "stop",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.23648422956466675,
+      0.5113704204559326,
+      0.25214534997940063
+    ],
+    "group_id": "dhash4_peace_0141"
+  },
+  {
+    "sample_id": "peace_0143",
+    "label": "peace",
+    "prediction": "stop",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.261471688747406,
+      0.4348004162311554,
+      0.3037278354167938
+    ],
+    "group_id": "dhash4_peace_0141"
+  },
+  {
+    "sample_id": "peace_0144",
+    "label": "peace",
+    "prediction": "stop",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.2707410156726837,
+      0.4649280607700348,
+      0.26433083415031433
+    ],
+    "group_id": "dhash4_peace_0144"
+  },
+  {
+    "sample_id": "peace_0145",
+    "label": "peace",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.3154309391975403,
+      0.2773010730743408,
+      0.40726804733276367
+    ],
+    "group_id": "dhash4_peace_0144"
+  },
+  {
+    "sample_id": "peace_0146",
+    "label": "peace",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.2777738869190216,
+      0.2710994482040405,
+      0.45112669467926025
+    ],
+    "group_id": "dhash4_peace_0144"
+  },
+  {
+    "sample_id": "peace_0147",
+    "label": "peace",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.3217719793319702,
+      0.28351831436157227,
+      0.3947097659111023
+    ],
+    "group_id": "dhash4_peace_0147"
+  },
+  {
+    "sample_id": "peace_0148",
+    "label": "peace",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.2508900761604309,
+      0.23046158254146576,
+      0.5186482667922974
+    ],
+    "group_id": "dhash4_peace_0147"
+  },
+  {
+    "sample_id": "peace_0149",
+    "label": "peace",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.2624807059764862,
+      0.31498533487319946,
+      0.4225339889526367
+    ],
+    "group_id": "dhash4_peace_0147"
+  },
+  {
+    "sample_id": "peace_0150",
+    "label": "peace",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.33673855662345886,
+      0.24452678859233856,
+      0.41873466968536377
+    ],
+    "group_id": "dhash4_peace_0147"
+  },
+  {
+    "sample_id": "stop_0024",
+    "label": "stop",
+    "prediction": "stop",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.10077450424432755,
+      0.7448893785476685,
+      0.1543361395597458
+    ],
+    "group_id": "dhash4_stop_0024"
+  },
+  {
+    "sample_id": "stop_0025",
+    "label": "stop",
+    "prediction": "stop",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.10476931929588318,
+      0.7952257394790649,
+      0.10000496357679367
+    ],
+    "group_id": "dhash4_stop_0025"
+  },
+  {
+    "sample_id": "stop_0049",
+    "label": "stop",
+    "prediction": "stop",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.08412744104862213,
+      0.8379119634628296,
+      0.07796056568622589
+    ],
+    "group_id": "dhash4_stop_0049"
+  },
+  {
+    "sample_id": "stop_0149",
+    "label": "stop",
+    "prediction": "stop",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.2182825356721878,
+      0.6816274523735046,
+      0.1000899225473404
+    ],
+    "group_id": "dhash4_stop_0149"
+  },
+  {
+    "sample_id": "thumbs_up_0064",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.043963514268398285,
+      0.19689320027828217,
+      0.7591432929039001
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0065",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.03364839777350426,
+      0.2175987958908081,
+      0.7487528324127197
+    ],
+    "group_id": "dhash4_thumbs_up_0065"
+  },
+  {
+    "sample_id": "thumbs_up_0066",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.028401682153344154,
+      0.22644147276878357,
+      0.7451568841934204
+    ],
+    "group_id": "dhash4_thumbs_up_0065"
+  },
+  {
+    "sample_id": "thumbs_up_0067",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.027380231767892838,
+      0.26875144243240356,
+      0.7038682699203491
+    ],
+    "group_id": "dhash4_thumbs_up_0065"
+  },
+  {
+    "sample_id": "thumbs_up_0068",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.02732139639556408,
+      0.22911731898784637,
+      0.743561327457428
+    ],
+    "group_id": "dhash4_thumbs_up_0065"
+  },
+  {
+    "sample_id": "thumbs_up_0069",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.03284118324518204,
+      0.2058771699666977,
+      0.7612816095352173
+    ],
+    "group_id": "dhash4_thumbs_up_0065"
+  },
+  {
+    "sample_id": "thumbs_up_0070",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.025682341307401657,
+      0.11916083097457886,
+      0.8551568388938904
+    ],
+    "group_id": "dhash4_thumbs_up_0065"
+  },
+  {
+    "sample_id": "thumbs_up_0071",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.028386900201439857,
+      0.16139386594295502,
+      0.8102192282676697
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0072",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.027908796444535255,
+      0.17611108720302582,
+      0.7959800958633423
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0073",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.04984899237751961,
+      0.1941905915737152,
+      0.7559604644775391
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0074",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.03818921372294426,
+      0.14685627818107605,
+      0.8149545192718506
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0075",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.05346705764532089,
+      0.19850842654705048,
+      0.748024582862854
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0076",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.04806089028716087,
+      0.2164141684770584,
+      0.7355250120162964
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0077",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.03125721588730812,
+      0.19772954285144806,
+      0.7710132002830505
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0078",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.032026395201683044,
+      0.1866430640220642,
+      0.7813305854797363
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0079",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.033806007355451584,
+      0.15948419272899628,
+      0.8067097663879395
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0080",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.036925461143255234,
+      0.15305015444755554,
+      0.8100244402885437
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0081",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.03342127054929733,
+      0.13447946310043335,
+      0.8320993185043335
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0082",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.03707384318113327,
+      0.12066811323165894,
+      0.8422580361366272
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0083",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.037073854357004166,
+      0.12066811323165894,
+      0.8422580361366272
+    ],
+    "group_id": "dhash4_thumbs_up_0064"
+  },
+  {
+    "sample_id": "thumbs_up_0146",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.30902746319770813,
+      0.08685746788978577,
+      0.6041150093078613
+    ],
+    "group_id": "dhash4_thumbs_up_0146"
+  },
+  {
+    "sample_id": "thumbs_up_0147",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.2450290024280548,
+      0.09751982241868973,
+      0.6574510931968689
+    ],
+    "group_id": "dhash4_thumbs_up_0146"
+  },
+  {
+    "sample_id": "thumbs_up_0148",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.27419182658195496,
+      0.09883613139390945,
+      0.6269721388816833
+    ],
+    "group_id": "dhash4_thumbs_up_0146"
+  },
+  {
+    "sample_id": "thumbs_up_0149",
+    "label": "thumbs_up",
+    "prediction": "thumbs_up",
+    "environment": "original_indoor_room",
+    "probabilities": [
+      0.27621734142303467,
+      0.1043906882405281,
+      0.6193919777870178
+    ],
+    "group_id": "dhash4_thumbs_up_0146"
+  }
+]

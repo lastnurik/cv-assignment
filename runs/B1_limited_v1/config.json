@@ -1,0 +1,16 @@
+{
+  "seed": 123,
+  "batch_size": 16,
+  "steps_per_epoch": 22,
+  "learning_rate": 0.001,
+  "fine_tune_learning_rate": 1e-05,
+  "manifest_sha256": "8ace5c5f80e2d93be23274cdb9076a3ac8d9b1548f1aef0c2a22eac9253a4e83",
+  "architecture": "mobilenetv2",
+  "epochs": 5,
+  "fine_tune_epochs": 3,
+  "contract": "configs/experiment_contract.convnext_v1.json",
+  "contract_sha256": "4cdc512d6b1278569c8139303d7f3889fb43738b13c7b9e988ed2d2c9d2a57dd",
+  "manifest": "data/manifests/a1_limited_v2.json",
+  "run_role": "B1",
+  "run_id": "B1_limited_v1"
+}

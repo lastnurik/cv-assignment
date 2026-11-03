@@ -1,0 +1,9 @@
+# UNRESOLVED: resolve and pin in online Python 3.12 after smoke tests.
+# Data-only verified versions are separate; allow the TensorFlow resolver to select compatible NumPy.
+numpy>=1.26
+Pillow>=13
+tensorflow-cpu
+opencv-python
+scikit-learn
+matplotlib
+seaborn
